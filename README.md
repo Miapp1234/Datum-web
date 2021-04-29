@@ -5,5 +5,3 @@ screenshot webu:
 Datum a čas se updatuje v JavasScriptu každou sekundu
 
 CSS je napsaný v Sassu ve složce /scss, po té pomocí Live Sass Compiler předělaná na Style.min.css ve složce /css
-
-Žádný obrázek nepoužit takže /img je prázdný
